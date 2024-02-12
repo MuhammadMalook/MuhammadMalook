@@ -7,7 +7,7 @@
   
 ### <div align="center">I'm Malook, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/muhammadmalook/muhammadmalook)  
+- 🔭 I’m currently working on [Upwork]((https://www.upwork.com/freelancers/~01bbc1dfc2bcc362d5?viewMode=1))  
   
 - 🌱 I’m currently learning React Native and CI CD  
   
