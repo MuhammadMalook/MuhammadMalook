@@ -7,9 +7,7 @@
   
 ### <div align="center">I'm Malook, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01bbc1dfc2bcc362d5?viewMode=1)  
-  
-- 🌱 I’m currently learning React Native and CI CD  
+- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01bbc1dfc2bcc362d5?viewMode=1)
   
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
